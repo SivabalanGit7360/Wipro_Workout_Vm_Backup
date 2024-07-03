@@ -1,0 +1,13 @@
+install flask
+create app.py
+create instance of flask app
+create route
+define methods for route
+run the application
+
+to display html page from flask application :
+
+1. from flask import Flask, render_template
+2. create a directory named 'templates' inside the current directory
+3. inside templates create a html file(hello.html)
+4. return render_template("hello.html")

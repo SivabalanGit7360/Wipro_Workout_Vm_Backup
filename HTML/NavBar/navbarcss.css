@@ -1,0 +1,14 @@
+body{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: white;
+}
+
+nav{
+
+    font-size: 19px;
+    background-color: rgb(212, 212, 10);
+    font-family: 'Trebuchet MS','Lucida ';
+}
