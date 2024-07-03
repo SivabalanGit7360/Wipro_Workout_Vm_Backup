@@ -1,0 +1,4 @@
+sample-logger DEBUG 2024-06-10 10:34:19,342 this is a debug log
+sample-logger INFO 2024-06-10 10:34:19,343 this is a informational log
+sample-logger WARNING 2024-06-10 10:34:19,344 this is a warning log
+sample-logger CRITICAL 2024-06-10 10:34:19,344 this is critical log

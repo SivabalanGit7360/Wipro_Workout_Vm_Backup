@@ -1,0 +1,4 @@
+DEBUG:sampler-logger:this is a debug log
+INFO:sampler-logger:this is a informational log
+WARNING:sampler-logger:this is a warning log
+CRITICAL:sampler-logger:this is critical log
